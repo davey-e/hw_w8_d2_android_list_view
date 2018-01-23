@@ -2,7 +2,7 @@ package com.mycodeportfolio.listview;
 
 public class Game {
 
-    private int rank;
+    private Integer rank;
     private String gameName;
     private String category;
 
@@ -13,7 +13,7 @@ public class Game {
     }
 
 
-    public int getRank() {
+    public Integer getRank() {
         return this.rank;
     }
 
